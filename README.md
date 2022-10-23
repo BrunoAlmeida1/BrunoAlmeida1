@@ -1,9 +1,14 @@
-## Olá, me chamo Bruno!
+# Bruno Almeida
 
-- 🎓 Sou estudante de ADS pela Estácio.
-- 💻 Tenho me especializado em .NET/C#. Concluí uma formação sobre fundamentos de .NET que incluiu conhecimentos sobre C#, ASP.NET MVC, Entity Framework, API REST e SQL Server.
-- 🔎 Estou buscando a trasição de carreira para área de TI.
-- 🏠 Sou de Pernambuco-BR.
+### Olá, devs!
+
+🎓 Sou estudante de ADS pela Estácio.
+
+💻 Tenho me especializado em .NET/C#. Concluí uma formação sobre fundamentos de .NET que incluiu conhecimentos sobre C#, ASP.NET MVC, Entity Framework, API REST e SQL Server.
+
+🔎 Estou buscando a trasição de carreira para área de TI.
+
+🏠 Sou de Pernambuco-BR.
 
 <div>
 <a href="https://github.com/BrunoAlmeida1">
