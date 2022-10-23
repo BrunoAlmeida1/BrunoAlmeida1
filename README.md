@@ -1,4 +1,4 @@
-## Olá, me chamo Bruno Almeida!
+## Olá, me chamo Bruno!
 
 - 🎓 Sou estudante de ADS pela Estácio.
 - 💻 Tenho me especializado em .NET/C#. Concluí uma formação sobre fundamentos de .NET que incluiu conhecimentos sobre C#, ASP.NET MVC, Entity Framework, API REST e SQL Server.
