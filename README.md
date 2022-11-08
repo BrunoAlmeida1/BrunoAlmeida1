@@ -4,7 +4,7 @@
 
 🎓 Sou estudante de ADS pela Estácio.
 
-💻 Tenho me especializado em .NET/C#. Concluí uma formação sobre fundamentos de .NET que incluiu conhecimentos sobre C#, ASP.NET MVC, Entity Framework, API REST e SQL Server. Agora procuro me aprofundar mais sobre cada um deles.
+💻 Tenho me especializado em .NET/C#. Concluí uma formação sobre fundamentos de .NET que incluiu conhecimentos sobre C#, ASP.NET MVC, Entity Framework, API REST e SQL Server. Agora procuro me aprofundar mais sobre cada um deles através da prática ao desenvolver projetos e estudando.
 
 🔎 Estou buscando a trasição de carreira para área de TI.
 
